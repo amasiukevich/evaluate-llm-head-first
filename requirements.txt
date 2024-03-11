@@ -1,0 +1,8 @@
+openai
+llama-index
+python-dotenv
+ipykernel
+llama-index-embeddings-huggingface
+llama-index-readers-web
+trulens-eval
+tqdm
